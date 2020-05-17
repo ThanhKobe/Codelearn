@@ -1,0 +1,2 @@
+Nhập vào một số nguyên dương n, và n số nguyên lần lượt là các phần tử trong dãy a.
+Hãy thay đổi giá trị của mỗi phần tử thành bình phương của chính nó, sau đó in mảng đó ra màn hình (mỗi phần tử cách nhau bởi một khoảng trắng).

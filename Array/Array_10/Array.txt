@@ -1,0 +1,2 @@
+Nhập và hai số nguyên dương m và n lần lượt là số hàng và số cột của mảng hai chiều a, tiếp theo là nhập các phần tử của mảng đó.
+Hãy tính và đưa ra tổng của tất cả các phần tử trong mảng a.
